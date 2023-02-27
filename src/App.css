@@ -1,0 +1,33 @@
+body{
+
+padding: 10px;
+
+}
+.box {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  font-size: calc(10px + 2vmin);
+  color: rgb(82, 167, 224);
+}
+
+a{
+
+  text-decoration:none;
+  color: red;
+
+}
+
+input{
+
+  border-radius: 5px;
+
+
+}
+textarea{
+
+border-radius: 5px;
+
+}
+
+
